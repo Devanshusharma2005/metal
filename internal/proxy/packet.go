@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 	"math/rand"
-)
+) 
 
 var (
 	ErrInvalidPacket    = errors.New("invalid packet")
